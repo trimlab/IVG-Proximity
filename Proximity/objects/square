@@ -1,0 +1,7 @@
+#size in percentage
+height = 20
+width = 20
+
+#position of center in percentage
+x = 70
+y = 50
